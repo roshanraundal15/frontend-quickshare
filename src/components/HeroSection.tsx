@@ -6,7 +6,7 @@ const HeroSection = () => {
   };
 
   const handleQualityCheck = () => {
-    window.location.href = 'http://localhost:8502';
+    window.location.href = 'https://agri-image-detection.streamlit.app/';
   };
 
   return (
